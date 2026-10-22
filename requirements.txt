@@ -1,0 +1,12 @@
+torch
+matplotlib
+numpy 
+pandas
+ipykernel
+torchsummary
+torchvision
+torchmetrics
+tqdm
+tensorboard
+ipywidgets
+protobuf

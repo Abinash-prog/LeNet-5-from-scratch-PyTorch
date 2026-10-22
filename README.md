@@ -1,0 +1,1 @@
+To activate the env = MCV\Scripts\activate
