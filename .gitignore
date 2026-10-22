@@ -158,7 +158,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+<<<<<<< HEAD
 MCV
+=======
+>>>>>>> 0f80b1df05d8a8900df2f096d1e03965431baf15
 
 # Spyder project settings
 .spyderproject
